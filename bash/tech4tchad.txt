@@ -1,1 +1,1 @@
-#!bin/bash
+"tech4tchad School"
